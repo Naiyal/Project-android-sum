@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculate</string>
+    <string name="calculate_tv_textFirstNumber">Enter First Number</string>
+
+
+    <string name="calculate_tv_textSecondNumber">Enter Second Number</string>
+
+    <string name="calculate_btn_textSum">Sum</string>
+    <string name="calculate_et_textResult">Result</string>
+</resources>
